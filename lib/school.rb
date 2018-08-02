@@ -22,5 +22,4 @@ class School
       sorted_students[grade] = students.sort
     end
   end
-  sorted_students
 end
